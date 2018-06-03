@@ -2,10 +2,10 @@ package Exercicio8;
 
 /**
  * 
- * @author Tainá Monteiro Gomes - R.A 817119056 - Turma:SIN3AN-MCA1
- * 			
+ * @author Gabriela Vieira de Moraes - 81610253 - SIN3AN-MCA1 * 			
  *
  */
+
 
 public class Teste {
 	public static void main(String[] args) {
